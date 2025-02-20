@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\resources",
+    "\\resources\\videos"
   ],
+  "SelectedNode": "\\resources\\videos\\excursion.mp4",
   "PreviewInSolutionExplorer": false
 }
